@@ -1,15 +1,11 @@
-ul {
-   font-family: Verdana,;
-   font-size: 22px;
-   background-color: orangered;
-   padding-top: 10px;
-   padding-bottom: 10px;
-   padding-right: 10px;
-   width: 60%;
+body {
+    background-color: coral;
 }
-li {
-    background-color: 
-    lightsalmon;
-    margin-bottom: 5px;
-    padding: 5px;
+
+h2 {
+    background-color: maroon;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
 }
